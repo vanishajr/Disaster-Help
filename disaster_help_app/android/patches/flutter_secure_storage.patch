@@ -1,0 +1,9 @@
+group 'com.it_nomads.fluttersecurestorage'
+version '1.0'
+namespace 'com.it_nomads.fluttersecurestorage'
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+} 

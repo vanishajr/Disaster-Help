@@ -1,0 +1,9 @@
+group 'com.example.flutter_sms'
+version '1.0'
+namespace 'com.example.flutter_sms'
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+} 

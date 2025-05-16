@@ -1,0 +1,7 @@
+This is a placeholder file to ensure the animations directory exists.
+Replace this with actual Lottie animation files:
+- loading.json
+- success.json
+- error.json
+- location.json
+- emergency.json 

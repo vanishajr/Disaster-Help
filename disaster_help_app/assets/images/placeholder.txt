@@ -1,0 +1,10 @@
+This is a placeholder file to ensure the images directory exists.
+Replace this with actual image files:
+- logo.png
+- background.png
+- map_marker.png
+- supply_icon.png
+- user_avatar.png
+- emergency_icon.png
+- location_icon.png
+- notification_icon.png 
